@@ -43,9 +43,9 @@
 ### Estadísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssharpblade&layout=donut&theme=dark&hide_border=true&locale=es" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ssharpblade&show_icons=true&theme=dark&hide_border=true&locale=es" />
-  <img src="https://github-profile-trophy.vercel.app/?username=ssharpblade&theme=onedark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinily&layout=donut&theme=dark&hide_border=true&locale=es" />
+  <img src="https://github-readme-stats.vercel.app/api?username=edwinily&show_icons=true&theme=dark&hide_border=true&locale=es" />
+  <img src="https://github-profile-trophy.vercel.app/?username=edwinily&theme=onedark" />
 </div>
 
 ---
