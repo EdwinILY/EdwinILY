@@ -7,10 +7,6 @@
   Estudiante de Ingeniería de Software en la FISEI
 </h2>
 
-<p align="center">
-  Apasionado por el desarrollo backend, interfaces modernas y el diseño digital. Me encanta construir soluciones funcionales y visualmente atractivas.
-</p>
-
 ---
 
 ### Conecta conmigo
@@ -24,9 +20,6 @@
   </a>
   <a href="https://www.instagram.com/sharpblade5" target="_blank">
     <img src="https://img.shields.io/badge/@sharpblade5-833AB4?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@-sharpblade-831" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
